@@ -72978,11 +72978,13 @@ rs-poster {
 }
 
 .tparrows.tp-leftarrow:before {
-  content: '\e824'
+  content: "<";
+  font-size: 20px;
 }
 
 .tparrows.tp-rightarrow:before {
-  content: '\e825'
+   content:">";
+    font-size: 20px;
 }
 
 .rs-layer [class^="pe-7s-"]:before,
