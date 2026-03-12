@@ -72979,12 +72979,14 @@ rs-poster {
 
 .tparrows.tp-leftarrow:before {
   content: "<";
-  font-size: 20px;
+  font-size: 45px;
+ 
 }
 
 .tparrows.tp-rightarrow:before {
    content:">";
-    font-size: 20px;
+    font-size: 45px;
+   
 }
 
 .rs-layer [class^="pe-7s-"]:before,
